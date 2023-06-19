@@ -23,6 +23,7 @@ return {
   { import = "astrocommunity.pack.terraform" },
   { import = "astrocommunity.pack.toml" },
   { import = "astrocommunity.pack.typescript" },
+  { import = "astrocommunity.pack.cmake" },
 
   -- Note Taking
   { import = "astrocommunity.note-taking.obsidian-nvim" },
